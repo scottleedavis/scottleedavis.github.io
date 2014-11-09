@@ -1,0 +1,74 @@
+/*
+File:			custom.css
+Description:		Custom styles for Thesis
+More Info:		http://diythemes.com/thesis/rtfm/custom-css/
+*/
+.custom img.attachment-teaser-image.wp-post-image {
+	transition: 2s;
+	-moz-transition: 2s; /* Firefox 4 */
+	-webkit-transition: 2s; /* Safari and Chrome */
+	-o-transition: 2s; /* Opera */
+}
+
+.custom img.attachment-teaser-image.wp-post-image:hover {
+	transform:rotate(360deg);
+	-moz-transform:rotate(360deg); /* Firefox 4 */
+	-webkit-transform:rotate(360deg); /* Safari and Chrome */
+	-o-transform:rotate(360deg); /* Opera */	
+}
+
+
+.custom .teaser3 { width: 210px; padding-right:20px; } //change width to allow 3 columns
+.custom .teaser3 .format_teaser p { display: none } //hide the text but not the teaser thumbnail
+
+
+.custom img.attachment-50x50.wp-post-image:hover{
+-moz-border-radius: 50px;
+-webkit-radius: 50px;
+border-radius: 50px;
+border-radius: 50px;
+border: 3px dashed;
+}
+
+.custom img.attachment-50x50.wp-post-image{
+-moz-border-radius: 50px;
+-webkit-radius: 50px;
+border-radius: 50px;
+border-radius: 50px;
+border: 3px solid;
+}
+
+.custom img.attachment-teaser-image.wp-post-image:hover{
+-moz-border-radius: 200px;
+-webkit-radius: 200px;
+border-radius: 200px;
+border: 5px solid;
+}
+
+.custom img.attachment-teaser-image.wp-post-image{
+-moz-border-radius: 200px;
+-webkit-radius: 200px;
+border-radius: 200px;
+border: 5px ridge;
+}
+
+.custom li.widget p {
+
+	margin-bottom: 0px;
+}
+
+.custom li.recent-post-item{
+	float:left;
+	margin: 0;
+	list-style: none;
+}
+
+.custom li#advanced-recent-posts-2{
+	list-style: none;
+}
+
+.custom #pagetop {
+margin-left: 255px;
+margin-top: -150px;
+position: absolute;
+}
