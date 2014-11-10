@@ -8,7 +8,7 @@ var app = express();
 
 app.use(appengine.middleware.base);
 
-//app.set('port', (process.env.PORT || 5000))
+app.listen(8080, '0.0.0.0');
 app.use("/", express.static(__dirname + '/public'));
 
 
