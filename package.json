@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "express": "~4.9.x",
-    "underscore": "latest"
+    "underscore": "latest",
+    "appengine" : "git://github.com/GoogleCloudPlatform/appengine-nodejs.git"
   },
   "engines": {
     "node": "0.10.x"
