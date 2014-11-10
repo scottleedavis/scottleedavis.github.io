@@ -17,5 +17,4 @@ handlers:
   upload: public/index.html
 
 - url: /.*
-  script: app.js
-  login: required
+  script: nothing.js
