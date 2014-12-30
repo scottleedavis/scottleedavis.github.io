@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/skawtus/scottleedavis.svg)](https://travis-ci.org/skawtus/scottleedavis)
+[![Build Status](https://travis-ci.org/scottleedavis/scottleedavis.svg)](https://travis-ci.org/scottleedavis/scottleedavis)
 
 scottleedavis
 ==================
