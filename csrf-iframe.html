@@ -2,14 +2,14 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-<title>editor xss</title>
+<title>editor csrf</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script>
 	$(function() {
 		if (window!=window.top) { 
 			console.log('im in an iframe '+top.location.href)
 			console.log('inject that top location!!!')
-			$('<script>console.log("xss");</' + 'script>').appendTo(top.document.body);
+			$('<script>console.log("csrf");</' + 'script>').appendTo(top.document.body);
 
 		} 
 	});
@@ -18,7 +18,7 @@
 </head>
 <body>
 
-<h1>editor-xss</h1>
+<h1>editor-csrf</h1>
 <p>We are trying to be malicious</p>
 
 </body>
