@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>editor xss</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+	$(function() {
+		if (window!=window.top) { 
+			console.log('im in an iframe '+top.location.href)
+			console.log('inject that top location!!!')
+			$('<script>console.log("xss");</' + 'script>').appendTo(top.document.body);
+
+		} 
+	});
+
+</script>
+</head>
+<body>
+
+<h1>editor-xss</h1>
+<p>We are trying to be malicious</p>
+
+</body>
+</html>
