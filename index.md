@@ -57,7 +57,7 @@ I cofounded [Collage Creative](https://collagecreative.net/) aimed at providing 
 
 ### November 2009 - July 2011
 
-I was a project interaction artist
+I was a projection interaction artist
 * Designed projection light systems for interactive experiences at dance shows, festivals, “OMSI After Dark” and after school programs.  Designed custom extensions to the ruby based [LUZ](https://github.com/lighttroupe/luz) software
 * Spearheaded interactive projection gaming at Really Big Video for first Thursday’s art walk event in the Pearl District.  Designed, setup and performed projection stage elements for NikeEM 2011
 
