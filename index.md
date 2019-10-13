@@ -58,8 +58,8 @@ I cofounded [Collage Creative](https://collagecreative.net/) aimed at providing 
 ### November 2009 - July 2011
 
 I was a projection interaction artist
-* Designed projection light systems for interactive experiences at dance shows, festivals, “OMSI After Dark” and after school programs.  Designed custom extensions to the ruby based [LUZ](https://github.com/lighttroupe/luz) software
-* Spearheaded interactive projection gaming at Really Big Video for first Thursday’s art walk event in the Pearl District.  Designed, setup and performed projection stage elements for NikeEM 2011
+* Designed projection light systems for interactive experiences at dance shows, festivals, "OMSI After Dark" and after school programs.  Designed custom extensions to the ruby based [LUZ](https://github.com/lighttroupe/luz) software
+* Spearheaded interactive projection gaming at Really Big Video for first Thursday's art walk event in the Pearl District.  Designed, setup and performed projection stage elements for NikeEM 2011
 
 ![lightart](assets/img/light_art.png)
 
@@ -92,7 +92,7 @@ Employed as scientific software engineer and grad student in Computation Geo Eco
 
 ### September 2005 - May 2006
 
-I worked for [SAPA Aluminum]() as a remote contract softwar engineer.  I developed Axapta 3.0 modules for the tracking and analysis of aluminum production facilities.
+I worked for [SAPA Aluminum]() as a remote contract software engineer.  I developed Axapta 3.0 modules for the tracking and analysis of aluminum production facilities.
 
 
 
@@ -113,9 +113,9 @@ Worked as a part-time instructor at [Clark Community College](http://www.clark.e
 ### May 2002
 
 * Graduated from [Westminster College](https://westminstercollege.edu/) with 3.73 GPA
-* Bemis, NSF, and Westminster Excellece scholarships
+* Bemis, NSF, and Westminster Excellence scholarships
 
-I built a voice controlled lego mindstorms project that had two robots that manuevered around an 8'x10' board looking for colored cans and moving them to collored squares.
+I built a voice controlled lego mindstorms project with two robots that maneuvered around an 8'x10' board looking for colored cans and moving them to colored squares.
 
 ![achilles](assets/img/achilles.jpg)
 ![tortoise](assets/img/tortoise.jpg)
