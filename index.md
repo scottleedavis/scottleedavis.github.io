@@ -2,6 +2,50 @@
 layout: default
 ---
 
+# Timeline of Experience
+
+
+### May 2002
+
+* Graduated from [Westminster College]() with 3.73 GPA
+* Bemis, NSF, and Westminster Excellece scholarships
+
+I built a voice controlled lego mindstorms project that had two robots that manuevered around an 8'x10' board looking for colored cans and moving them to collored squares.
+
+![achilles](assets/img/achilles.jpg)
+![tortoise](assets/img/tortoise.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
