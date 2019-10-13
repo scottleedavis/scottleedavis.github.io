@@ -32,7 +32,7 @@ I was employed as a application security researcher at [Rapid7](https://www.rapi
 * [https://github.com/sdavis-r7](https://github.com/sdavis-r7)
 * As a team member, we helped forge Application Security practices, products and services.
 * As a developer, I planned, built, and deployed the out-of-band vulnerability callback API "AppSpidered" .  I also built the ReactJS scan interface for AppSpider 
-* As a researcher, I discovered vulnerabilities, wrote exploits, and offered patching to the OpenAPI (Swagger) ecosystem.
+* As a researcher, I discovered [vulnerabilities, wrote exploits, and offered patching to the OpenAPI (Swagger) ecosystem.](https://blog.rapid7.com/2016/06/23/r7-2016-06-remote-code-execution-via-swagger-parameter-injection-cve-2016-5641/)
 
 
 
