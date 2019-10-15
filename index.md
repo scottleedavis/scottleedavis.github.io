@@ -7,7 +7,7 @@ layout: default
 ### October 2017 - Now
 
 I am employed by [CollegeNET](https://collegenet.com/) as a Technical Lead in Applyweb Self Service.
-* Lead UI and API teams focused on providing self service capabilities for ApplyWeb®
+* Lead UI, API and CLI teams focused on providing self service capabilities for ApplyWeb®
 * Designed and implemented frontend, backend and DevOPS architecture
 
 I have contributed open source code to [Mattermost](https://mattermost.com/) server, webapp and mobile.  I also have created a handful of plugins.
