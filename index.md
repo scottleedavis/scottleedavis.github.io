@@ -80,7 +80,7 @@ Employed at [nLight Photonics](http://www.nlight.net/) as a software engineer.  
 
 ### June 2006 - May 2008
 
-Employed as scientific software engineer and grad student in Computation Geo Ecology.
+Employed as scientific software engineer and grad student in [Computational Geo Ecology](https://www.nlbif.nl/en/nlbif-data/organizationsresearch-group-computational-geo-ecology-ibed-uva).
 * Member of an avian migration studies research team.  
 * Data collection: I developed embedded firmware for avian GPS tracking data loggers and co-built the remote data collection system. 
 * Mathematical modeling: I created an agent based ecological modeling framework in Matlab, and taught MSc students on its use.
