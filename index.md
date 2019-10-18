@@ -41,7 +41,7 @@ I was employed as a application security researcher at [Rapid7](https://www.rapi
 I was employed by [Webtrends](https://www.webtrends.com/).
 * As the Engineering Security Team Lead, I provided vulnerability assessments, code review, threat modeling and built automation to augment existing Continuous Integration workflows.
 * As a member of the data services team, I was immersed in all layers of our SaaS components and focused development on data query architecture.  
-* As a member of the application layer team, I wrote client side and server side components for portfolio applications: account settings, action center, optimize, and streams 
+* As a member of the application team, I wrote client side and server side components for portfolio applications: account settings, action center, optimize, and streams 
 
 
 
@@ -95,12 +95,9 @@ Employed as scientific software engineer and grad student in [Computational Geo 
 I worked for [SAPA Aluminum]() as a remote contract software engineer.  I developed Axapta 3.0 modules for the tracking and analysis of aluminum production facilities.
 
 
-
-
 ### February 2003 - July 2005
 
 Worked as a senior software engineer at [Taiyo Yuden R&D Center of America](https://www.yuden.co.jp/eu/).  I was responsible for establishing tangible products from components and partnerships guided by leadership.  I was a member of the IEEE 802.15.4 working group, and built several proof of concepts based on low power wireless sensor networks.  Additionally, I wrote firmware and drivers for various projects including keyboards, and wireless network cards.
-
 
 ### September 2002 - December 2002
 
@@ -119,8 +116,6 @@ I built a voice controlled lego mindstorms project with two robots that maneuver
 
 ![achilles](assets/img/achilles.jpg)
 ![tortoise](assets/img/tortoise.jpg)
-
-
 
 ### June 2000 - July 2002
 
