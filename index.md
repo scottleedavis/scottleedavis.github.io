@@ -4,9 +4,15 @@ layout: default
 
 # Timeline of Experience
 
-### October 2017 - Now
+### January 2020 - Now
 
-I am employed by [CollegeNET](https://collegenet.com/) as a Technical Lead in [Applyweb Self Service](https://www.applyweb.com/applyweb/).
+I am employed by [ThinkMammoth](https://www.mammothhr.com/) as a Senior Engineering Manager
+* Lead a security team and company SOC2 efforts
+* Manage a team of frontend developers
+
+### October 2017 - January 2020
+
+I was employed by [CollegeNET](https://collegenet.com/) as a Technical Lead in [Applyweb Self Service](https://www.applyweb.com/applyweb/).
 * Lead UI, API and CLI teams focused on providing self service capabilities for ApplyWeb®
 * Designed and implemented frontend, backend and DevOPS architecture
 
