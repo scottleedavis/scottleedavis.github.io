@@ -6,7 +6,7 @@ layout: default
 
 ### January 2020 - February 2021
 
-I am employed by [ThinkMammoth](https://www.mammothhr.com/) as a Senior Engineering Manager
+I was employed by [ThinkMammoth](https://www.mammothhr.com/) as a Senior Engineering Manager
 * Member of the senior leadership team 
 * Lead a security team and company SOC2 efforts
 * Manage a team of frontend developers
