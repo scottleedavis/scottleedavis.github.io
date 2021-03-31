@@ -4,6 +4,13 @@ layout: default
 
 # Timeline of Experience
 
+### February 2021 - Current
+
+Providing consulting services at [Davis Consulting Services LLC](https://davisconsultingservicesllc.com/)
+* Software Development and Architecture<
+* DevSecOps
+* Application security testing
+
 ### January 2020 - February 2021
 
 I was employed by [ThinkMammoth](https://www.mammothhr.com/) as a Senior Engineering Manager
