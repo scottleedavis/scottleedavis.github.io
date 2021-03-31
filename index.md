@@ -6,7 +6,7 @@ layout: default
 
 ### February 2021 - Current
 
-Providing consulting services at [Davis Consulting Services LLC](https://davisconsultingservicesllc.com/)
+Director at [Davis Consulting Services LLC](https://davisconsultingservicesllc.com/)
 * Software Development and Architecture<
 * DevSecOps
 * Application security testing
