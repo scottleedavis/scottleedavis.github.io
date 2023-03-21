@@ -19,6 +19,14 @@ h1, h2 {
 ul {
   list-style: none;
   padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+li {
+  margin: 10px 0;
 }
 
 /* Section styles */
